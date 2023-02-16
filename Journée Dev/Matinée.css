@@ -1,0 +1,27 @@
+/* ---------------------------------------------------------------- */
+/* images param */
+img {
+    width: 300px;
+    border-radius: 50px;
+
+    display: flex;
+ 
+}
+
+.Images {
+    
+    border-style: solid;
+    border-color: red;
+    width: min-content;
+    
+}
+
+
+.tower-group-1 {
+    justify-content:space-around;
+    flex-direction:row-reverse;
+    }
+    .tower-group-2 {
+    justify-content:center;
+    align-items:center;
+    }
